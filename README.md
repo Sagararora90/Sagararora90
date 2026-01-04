@@ -1,32 +1,53 @@
-Hi, I'm Sagar Arora 👋
+<h1 align="center">Hi 👋, I'm Sagar Arora</h1>
+<h3 align="center">MERN Stack Developer | Data Structures & Algorithms (C++)</h3>
 
-🎓 BE–CSE student
-💻 MERN Stack Developer | Data Structures & Algorithms (C++)
-🚀 Passionate about building scalable web applications and solving problems
+<br/>
 
-💫 About Me
+<p align="center">
+  🌱 Learning & building with MERN Stack <br/>
+  👯 Open to Frontend & Full-Stack collaborations <br/>
+  💬 Ask me about HTML, CSS, JavaScript, React, C++ <br/>
+  ⚡ Still figuring out how to perfectly center a div 😄
+</p>
 
-🌱 Currently learning and building with the MERN Stack
-👯 Open to collaborating on Frontend & Full-Stack projects
-💬 Ask me about HTML, CSS, JavaScript, React.js, C++ (DSA)
-📫 Reach me at: sagararora90@gmail.com
+<br/><br/>
 
-⚡ Fun fact: Still mastering the ancient art of centering a div 😄
+<h2 align="center">🌐 Connect with me</h2>
 
-🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/sagararora90/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="https://leetcode.com/sagararora90" target="_blank"> <img src="https://skillicons.dev/icons?i=leetcode" height="40"/> </a> <a href="https://github.com/Sagararora90" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
-💻 Tech Stack
-🧠 Languages
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,js" /> </p>
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" /> </p>
-⚙ Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
-🛠 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vercel" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sagararora90&show_icons=true&theme=tokyonight" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sagararora90&theme=onedark&row=1" /> </p>
-📈 LeetCode Stats
-<p align="center"> <img src="https://leetcard.jacoblin.cool/sagararora90?theme=dark&font=Baloo&ext=contest" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagararora90/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/sagararora90" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="48"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Sagararora90" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  </a>
+</p>
+
+<br/><br/>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vercel" />
+</p>
+
+<br/><br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagararora90&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<br/>
+
+<h2 align="center">📈 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sagararora90?theme=dark&font=Baloo" />
+</p>
